@@ -2,4 +2,4 @@
 Paint application written in python language
 
 
-![](Kayıt 2023-05-05 122728.gif)
+![](https://github.com/cemtekinn/paint-app-with-python/blob/main/Kay%C4%B1t%202023-05-05%20122728.gif)
